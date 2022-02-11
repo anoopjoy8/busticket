@@ -1,0 +1,64 @@
+.navbar-brand{
+    font-size: 30px !important;
+    color: brown;
+}
+.frm-sec{
+    margin-top: 100px;
+}
+.input-wd{
+    line-height: 3.5 !important;
+}
+
+.frm-label{
+    font-size: 20px;
+    color: #bd2130;
+    font-family :Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+.in-1{
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+.srch-ip{
+    background-color: #bd2130;
+    color: white;
+    border-left: 0;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+    border-top-right-radius: 1rem !important;
+    border-bottom-right-radius: 1rem !important;
+}
+.a-srch{
+    color: white !important;
+}
+input.input-wd:focus { 
+    outline: none !important;
+    border-color:transparent !important;
+    box-shadow:none !important;
+    border: 1px solid #ced4da !important;
+    border-radius: 0.25rem !important; 
+}
+input.des2:focus{
+    border-left: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+.des1{
+    border-right: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    margin-bottom: 32px;
+
+}
+.des2{
+    border-left: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+}
+a.a-srch:hover {
+    cursor:pointer;
+  }
