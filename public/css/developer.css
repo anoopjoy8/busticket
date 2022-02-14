@@ -54,11 +54,64 @@ input.des2:focus{
     margin-bottom: 32px;
 
 }
+.rnd-cr{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
 .des2{
     border-left: 0 !important;
     border-top-left-radius: 0 !important;
     border-bottom-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
 }
+
+#loc-list,#loc-list-to,#jrn-date{
+    color: red  !important;
+}
+
 a.a-srch:hover {
     cursor:pointer;
   }
+.span-dv{
+    margin-top: -32px;
+  }
+
+.list-group-item{
+    color: black !important;
+}
+
+.list-group-item:hover {
+    background-color:#bd2130 !important;
+    color: white !important;
+    cursor: pointer;
+}
+
+  #togglebtn-n {
+    z-index: 1 !important;
+    width: 40px;
+    margin-bottom: 32p !important;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0!important;
+    cursor: pointer;
+}
+.togglebtn-n.togglebtn {
+    position: absolute !important;
+    z-index: 1 !important;
+    left: 0 !important;
+    margin-left: 0px!important;
+    top: 0 !important;
+    cursor: pointer;
+}
+#inputPassword2fr{
+    width: 286px;
+}
+.no-br{
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0!important;
+}
+.span-to{
+    
+}
+
